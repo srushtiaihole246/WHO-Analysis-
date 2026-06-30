@@ -175,23 +175,3 @@ The notebook provides:
 ## 👤 Author
 
 **srushti aihole**
-
-- 💼 Data Analyst
-- 🐍 Python Developer
-- 📊 Data Visualization Enthusiast
-
-GitHub: https://github.com/yourusername
-
-LinkedIn: https://linkedin.com/in/yourprofile
-
----
-
-## ⭐ Support
-
-If you found this project helpful, please consider giving it a ⭐ on GitHub!
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
